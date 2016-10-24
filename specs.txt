@@ -34,4 +34,6 @@ Display            -Header Bar or no (to Display a title; eg. "Bio Bingo!")
                    -Themes available (suggested color/font combos, like in MS Office)
                    -Starting suggestion a plain theme that's easy on the printer
 
---Not done yet--
+There is both an output for a/many distinct static, printable board/s, as well as the computer game.
+
+Electronic Game:  Using vocabulary words, the user/creator also provides definitions through one of the input means. A player must provide a proper definition through Multiple Choice to be able to place a tile on the called square.
