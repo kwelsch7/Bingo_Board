@@ -1,8 +1,10 @@
-NOTE -- This is actually not an assignment. It's an early version I started of a now-current (10/24/16) project in C#.
+ # Bingo_Board
+Welcome to the Bingo Board project!
+ 
+Here we are creating a program that allows a user to create a bingo board using any values, size, or scoring features they desire. The program will provide the randomization, dimensions, etc. and the user will provide the details.
+ 
+Two options for end results will be static printable boards, as well as a game in either Desktop or Web App form.
+ 
+The plan is to program this in C#.
 
-Welcome to Bingo Board!
-
-Here I will be creating a bingo board based on the topic of User choice.
-Input (the values to go in the squares) is received from either manual input by the user, from a text file, or a from a database.
-The values are randomized and then assigned to a square until the given dimensions (also specified by the user) are filled.
-I will be teaching myself how to use JavaFX for the display and also how to connect a MySQL Database to Java.
+**Please see the spec sheet for more details.**
