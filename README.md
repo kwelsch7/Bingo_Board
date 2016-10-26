@@ -5,6 +5,6 @@ Here we are creating a program that allows a user to create a bingo board using 
  
 Two options for end results will be static printable boards, as well as a game in either Desktop or Web App form.
  
-The plan is to program this in C#.
+The plan is to program this in C#. (Don't let the "Java" on the project folder deceive you).
 
 **Please see the spec sheet for more details.**
