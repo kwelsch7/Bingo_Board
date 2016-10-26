@@ -1,0 +1,9 @@
+Green
+Red
+Yellow
+Blue
+Purple
+Magenta
+Orange
+Tan
+Beige
