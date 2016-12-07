@@ -1,5 +1,6 @@
 # Bingo_Board
 Welcome to the Bingo Board project!
+**NOTE: The active version of this project can be found at https://github.com/ShawnkoonZ/Bingo-Game**
  
 Here we are creating a program that allows a user to create a bingo board using any values, size, or scoring features they desire. The program will provide the randomization, dimensions, etc. and the user will provide the details.
  
